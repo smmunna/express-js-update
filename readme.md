@@ -1,10 +1,3 @@
-Perfect 😎 — Express.js makes handling GET (and any other) requests much simpler.
-And since Node v24.8.0 now supports `.env` and auto-reload natively, you can combine those new features with Express easily.
-
-Let’s do it step-by-step 👇
-
----
-
 ### 🧩 Step 1: Create a simple Express project
 
 If you haven’t already, in your project folder run:
